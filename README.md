@@ -4,7 +4,7 @@
 
 ## 关于我
 
-- 我是一名初中生，现就读于南宁市一所初中。
+- 我是一名初中生，现就读于南宁市的一所初中。
   
 - 我是一名[抖音博主](https://www.douyin.com/user/MS4wLjABAAAAvIT6uq7oNwaBFWJ3wf4Ltw-YYAp-LLb9QjlS-IZx5PYKzXS167K6ffNK-w1mFFn6?from_tab_name=main)，到现在收获**14万**伙伴们的喜欢了。
   
