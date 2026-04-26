@@ -21,7 +21,7 @@
   
 - **也许可以作为你个人首页使用**：[老陈的个人首页](https://github.com/FlashingChen2024/LaochenHomePage)，借助*ClaudeCode+GLM-4.7*，制作的老陈的首页。您可以[在线预览](https://chenyuxia.com)。整体是**科技风格的**，允许您自由修改多个地方。
   
-
+- 团队参加**2026小红书黑客松巅峰赛**的项目：[薯医NoteRx](https://github.com/jiangmuran/noterx)，负责一部分的项目开发、宣传物料准备、服务器安全防护。目前（截止2026/4/26），项目累计送出300M+Tokens，累计UV已超过**2W**。
 ## 其他
 
 欢迎大家去我的[网站](https://chenyuxia.com)和我的[博客](https://blog.chenyuxia.com)去玩儿！如果觉得我的仓库不错，可以留下一个*Star*吗，谢谢啦！
