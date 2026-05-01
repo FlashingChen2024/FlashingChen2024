@@ -19,7 +19,7 @@
   
 - **全网第一个复刻春晚魔术的APP**：[老陈计算器](https://github.com/FlashingChen2024/LaochenCalc)，借助*GPT-5.2*，复刻了**2026春晚同款计算器**（思路是我给的，程序是他写的）。同时您也可以[在线体验](https://app.chenyuxia.com/calc/)本项目。
   
-- **也许可以作为你个人首页使用**：[老陈的个人首页](https://github.com/FlashingChen2024/LaochenHomePage)，借助*ClaudeCode+GLM-4.7*，制作的老陈的首页。您可以[在线预览](https://chenyuxia.com)。整体是**科技风格的**，允许您自由修改多个地方。
+- **也许可以作为你个人首页使用**：[老陈的个人首页](https://github.com/FlashingChen2024/VibeHome)，借助*GoogleAISutdio*，制作的老陈的首页。您可以[在线预览](https://chenyuxia.com)。整体是**科技风格的/电影感十足/动画丰富**，允许您**在同一个文件中**快速、自由地修改多个地方。
   
 - 团队参加**2026小红书黑客松巅峰赛**的项目：[薯医NoteRx](https://github.com/jiangmuran/noterx)，负责一部分的项目开发、宣传物料准备、服务器安全防护。目前（截止2026/4/26），项目累计送出300M+Tokens，累计UV已超过**2W**。
 ## 其他
